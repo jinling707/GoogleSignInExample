@@ -4,7 +4,7 @@ Google API 實現登入功能(單頁Activity)
 將 Google 登錄機制加入的應用中，讓用戶可使用自己的 Google 帳號進行 Firebase 身份驗證
 
 
-<img src="/img/Android Google 登入9.png" width="720px" />
+<img src="/README_IMG/Android Google 登入9.png" width="720px" />
 
 ### 說明
 需先申辦Firebase的帳號，並將專案與Firebase的連接。

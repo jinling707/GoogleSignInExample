@@ -45,9 +45,15 @@ Google API 實現登入功能(單頁Activity)
 
 <img src="/README_IMG/Android Google 登入7.png" width="391px" />
 
-註:官方教學文件可以點選android studio的連結進去 https://firebase.google.com/docs/auth/android/google-signin?utm_source=studio
+#### 補充說明
+
+官方教學文件可以點選android studio的連結進去 https://firebase.google.com/docs/auth/android/google-signin?utm_source=studio
 
 <img src="/README_IMG/Android Google 登入8.png" width="720" />
+
+如果要將APP上架到Play Store，需要到Firebase中設定專案與Play Store的連結
+
+<img src="/README_IMG/Android Google 登入10.png" width="720" />
 
 ### android studio gradle設定
 build.gradle(Project)  加入   classpath 'com.google.gms:google-services:4.2.0' 
